@@ -4,6 +4,12 @@ Aplikasi katalog produk berbasis Next.js dengan fitur pencarian, filter kategori
 
 ---
 
+## Video & Demo
+
+- **Video** : https://drive.google.com/drive/folders/11n03NtGk0L8P1hu-ZnEjNNRFZimcCGuV?usp=sharing  
+
+- **Live Demo** : https://ziyad-catalog.vercel.app/
+
 ## 📦 Library yang Digunakan
 
 - **Next.js (App Router)**  
